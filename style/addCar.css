@@ -1,0 +1,49 @@
+.addCar {
+    margin-top: 50px;
+    margin-bottom: 100px;
+    color: #000;
+    font-family: Raleway;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.addCar-zone {
+    margin-top: 50px;
+    width: 100%;
+    height: 1600px;
+    border-radius: 20px;
+    background: #90D2DE;
+    padding: 50px;
+}
+
+.addCar-zone__title {
+    color: #000;
+    font-family: Raleway;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.addCar-zone__object {
+    margin-top: 50px;
+}
+
+.addCar-zone__photo {
+    margin-top: 30px;
+}
+
+.addCar-input {
+    width: 450px;
+    margin-right: 96px;
+}
+
+.searchBar-input__last {
+    margin-right: 0;
+}
+
+.addCar-btn {
+    margin-top: 30px;
+}

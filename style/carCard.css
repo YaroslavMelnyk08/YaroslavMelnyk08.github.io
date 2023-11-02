@@ -1,0 +1,62 @@
+.carCard {
+    margin-top: 100px;
+}
+
+.carCard-wrapper {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    column-gap: 100px;
+    row-gap: 50px;
+}
+
+.carCard-item {
+    width: 500px;
+    height: 550px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    border-radius: 20px;
+    background: #90D2DE;
+    padding: 30px;
+    text-decoration: none;
+}
+
+.carCard-info {
+    color: #FFF;
+    font-family: Raleway;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    text-decoration: none;
+
+}
+
+.carCard-info__item {
+    margin-top: 30px;
+    margin-right: 25px;
+    text-decoration: none;
+}
+
+.carCard-pagintaion {
+    display: flex;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    gap: 20px;
+    justify-content: center;
+}
+
+.carCard-pagintaion__item {
+    width: 60px;
+    height: 60px;   
+    border-radius: 30px;
+    background: #90D2DE;
+}
+
+.title {
+    margin-top: 50px;
+}
+
+.news-info {
+    grid-template-columns: none;
+}

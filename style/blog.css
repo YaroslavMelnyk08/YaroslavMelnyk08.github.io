@@ -1,0 +1,12 @@
+.blog {
+    margin-top: 100px;
+}
+
+.blog-item {
+    width: 1100px;
+    height: 500px;
+    border-radius: 20px;
+    background: #90D2DE;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    margin-bottom: 100px;
+}

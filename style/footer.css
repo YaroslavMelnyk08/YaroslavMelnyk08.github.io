@@ -1,0 +1,37 @@
+.footer {
+    height: 100px;
+    width: 100%;
+    background: #ECF4F9;
+    display: flex;
+    align-items: center;
+}
+
+.footer-wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-logo {
+    color: #000;
+    text-align: center;
+    font-family: Raleway;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.footer-social {
+    display: flex;
+    column-gap: 30px;
+}
+
+.footer-social__item {
+    border-radius: 100%;
+    width: 60px;
+    height: 60px;
+    background-color: #EDFFFC;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
